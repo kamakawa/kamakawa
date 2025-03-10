@@ -1,4 +1,4 @@
-Olá, ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)meu nome é Eric Kamakawa
+Prazer! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Eric Kamakawa aqui, mergulhando no mundo da engenharia e decifrando os mistérios da tecnologia
 =======================================================================================================================================
 
 Estudante de Engenharia da Computação
