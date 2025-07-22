@@ -1,27 +1,40 @@
-Eric Kamakawa
-================================
+# Eric Kamakawa
 
-Estudante de Engenharia da Computação
--------------------------------------
+### Estudante de Engenharia da Computação 
 
-Olá! Meu nome é Eric Kamakawa e sou graduando em Engenharia da Computação pela Universidade Tecnológica Federal do Paraná (UTFPR), campus Apucarana. Tenho forte interesse nas áreas de computação científica, inteligência artificial, desenvolvimento de software e simulações numéricas aplicadas a problemas reais.
+Olá! Sou Eric Kamakawa, um estudante determinado de Engenharia de Computação na Universidade Tecnológica Federal do Paraná (UTFPR), campus Apucarana. Minha jornada é marcada por um forte fascínio pela matemática e pelas possibilidades que a tecnologia oferece para resolver problemas complexos. Sou apaixonado por **computação científica, inteligência artificial, desenvolvimento de software** e, em particular, **simulações numéricas aplicadas**.
 
-Atualmente, participo de uma iniciação científica focada na simulação computacional de cristais líquidos, utilizando o modelo de Ising e o método de Monte Carlo, com implementação em linguagem C++.
+Atualmente, dedicando-me à pesquisa em simulação computacional de cristais líquidos. Utilizo o **modelo de Ising e o método de Monte Carlo**, com a implementação em **linguagem C/C++**, visando a produção de um artigo científico para publicação internacional. Essa experiência tem me proporcionado um sólido desenvolvimento em algoritmos complexos e otimização de código.
 
-Sou medalhista da OBMEP (bronze, nível 3) e também sou faixa preta e campeão regional de Karatê, em 2019, título que reforça valores que levo para minha carreira: disciplina, resiliência, concentração e liderança.
+Minha aptidão em matemática é reforçada por conquistas como a **medalha de bronze na OBMEP**, a **medalha na Competição Elon Lages Lima de Matemática** e a **classificação para a OBM Nível Universitário**. Fora da academia, sou **faixa preta e campeão paranaense de Karatê (2019)**, o que me ensinou a levar valores como **disciplina, resiliência, foco e liderança** do tatame para cada linha de código e projeto que desenvolvo.
 
-* ✉️ Você pode entrar em contato comigo em [erickamakawa@hotmail.com](mailto:erickamakawa@hotmail.com)
-* ⚡  Explorando novas tecnologias | 🔥 Sempre em busca de desafios | 🥋 Disciplina do tatame para o código
+Estou sempre em busca de novos desafios e oportunidades que me permitam aplicar e expandir minhas habilidades, especialmente em estágios e programas que me aproximem do meu objetivo de construir uma carreira internacional em engenharia e ciência.
 
-### Habilidades
+---
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a> </p>
-### Redes sociais <p align="left"> <a href="https://www.github.com/kamakawa" target="_blank" rel="noreferrer"> <Foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </imagem> </a> <a href="http://www.instagram.com/erickamakawa" target="_blank" rel="noreferrer"> <Foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </imagem> </a> <a href="https://www.linkedin.com/in/erickamakawa" target="_blank" rel="noreferrer"> <Foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </imagem> </a></p>
+### Conecte-se comigo
 
-### Emblemas
+* ✉️ [erickamakawa@hotmail.com](mailto:erickamakawa@hotmail.com)
+* **LinkedIn:** [linkedin.com/in/erickamakawa](https://www.linkedin.com/in/erickamakawa)
+* **Instagram:** [instagram.com/erickamakawa](http://www.instagram.com/erickamakawa)
 
-<b>Minhas estatísticas do GitHub</b>
+---
 
-<uma href="http://www.github.com/kamakawa"><img src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&hide=stars,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="estatísticas do GitHub de kamakawa" /></a>
+### Minhas Habilidades
 
-<a href="https://github.com/kamakawa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Principais idiomas" /></a>
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+</p>
+
+---
+
+### Estatísticas do GitHub
+
+<p align="left">
+  <a href="http://www.github.com/kamakawa"><img src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de Eric Kamakawa" /></a>
+  <a href="https://github.com/kamakawa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Principais Linguagens" /></a>
+</p>
