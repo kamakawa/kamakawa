@@ -1,31 +1,82 @@
-# Eric Kamakawa
+<!-- BANNER ANIMADO COM SEU NOME -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0d1117&height=80&section=header&text=ERIC%20KAMAKAWA&fontSize=45&fontColor=00C8FF&fontAlign=50&fontAlignY=50" />
+</div>
 
-### Estudante de Engenharia de Computação 
+<br>
 
-Olá! Sou **Eric Kamakawa**, estudante de **Engenharia de Computação na UTFPR**. Tenho grande interesse em computação científica, inteligência artificial e desenvolvimento de software, **com forte base em matemática aplicada e raciocínio lógico**.
-
-Atualmente, desenvolvo duas Iniciação Científica uma pelo **IMPA em parceria com o CNPq, focada na geração de malhas em Dinâmica dos Fluidos Computacional (CFD) com JavaScript** e outra focada no **desenvolvimento de software para simulações de Monte Carlo de Cristais Líquidos em C++ juntamente com o CUDA**. Essa experiência tem ampliado minhas habilidades em algoritmos, modelagem computacional e análise numérica.
-
-Entre minhas conquistas acadêmicas, destaco as **medalhas de bronze na OBMEP (nível 3) e na Competição Nacional Elon Lages Lima de Matemática (nível universitário)**. Fora da academia, sou **faixa preta** e **campeão paranaense de Karatê (2019)** — uma trajetória que consolidou minha disciplina, foco e resiliência, qualidades que aplico em cada desafio técnico e projeto.
-
-Busco constantemente evoluir e criar soluções que unam lógica, eficiência e impacto real
-
----
-
-### Conecte-se comigo
-
-* ✉️ [erickamakawa@hotmail.com](mailto:erickamakawa@hotmail.com)
-* **LinkedIn:** [linkedin.com/in/erickamakawa](https://www.linkedin.com/in/erickamakawa)
-* **Instagram:** [instagram.com/erickamakawa](http://www.instagram.com/erickamakawa)
+<!-- SUB-BANNER TIPANDO SEU TÍTULO -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C8FF&center=true&vCenter=true&width=650&lines=Engenharia+de+Computação+%7C+UTFPR;Computação+Ciêntífica+%7C+IA+%7C+C%2B%2B;Pesquisa+%7C+Simulações+%7C+Alto+Desempenho" />
+</div>
 
 ---
 
-### Minhas Habilidades
+# 👨🏻‍💻 Sobre Mim
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a> <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" title="SQL"/></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a> </p>
+Sou **Eric Kamakawa**, estudante de **Engenharia de Computação na UTFPR**, apaixonado por computação científica, inteligência artificial, modelagem numérica e desenvolvimento de software.
+
+Atualmente desenvolvo **duas Iniciações Científicas**:
+
+- 🔹 **IMPA + CNPq** — *Geração de malhas para CFD usando JavaScript*
+- 🔹 **Simulações de Monte Carlo em C++ + CUDA**, aplicadas a Cristais Líquidos
+
+Esses projetos fortalecem minhas habilidades em:
+
+- Computação científica  
+- Modelagem e simulação  
+- Cálculo numérico  
+- Estruturas de dados e física computacional  
+- Alto desempenho (HPC)
+
+Conquistas acadêmicas:
+
+🏅 Medalha de Bronze — **OBMEP (Nível 3)**  
+🏅 Medalha de Bronze — **Competição Nacional Elon Lages Lima (nível universitário)**  
+
+📌 Fora da academia, sou **faixa preta** e **campeão paranaense de Karatê (2019)** — disciplina, foco e resiliência fazem parte da minha essência.
 
 ---
 
-### Estatísticas do GitHub
+# 🤝 Conecte-se Comigo
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamakawa&theme=tokyonight&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" height="160" /> </p>
+<a href="mailto:erickamakawa@hotmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/erickamakawa" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://www.instagram.com/erickamakawa" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=D62976" />
+</a>
+
+---
+
+# 🧠 Minhas Habilidades
+
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,linux&theme=dark" />
+
+</div>
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&hide_border=true&theme=react&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kamakawa&theme=react&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&layout=compact&langs_count=10&hide_border=true&theme=react" />
+
+</div>
+
+---
+
+
+<!-- FIM DO README -->
