@@ -28,4 +28,4 @@ Busco constantemente evoluir e criar soluções que unam lógica, eficiência e 
 
 ### Estatísticas do GitHub
 
-<p align="left"> <a href="http://www.github.com/kamakawa"><img src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Estatísticas do GitHub de Eric Kamakawa" /></a> <a href="https://github.com/kamakawa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&langs_count=10&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Principais Linguagens" /></a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamakawa&theme=tokyonight&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" height="160" /> </p>
