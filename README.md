@@ -7,7 +7,9 @@
 
 <!-- SUB-BANNER TIPANDO SEU TÍTULO -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C8FF&center=true&vCenter=true&width=650&lines=Engenharia+de+Computação+%7C+UTFPR;Computação+Ciêntífica+%7C+IA+%7C+C%2B%2B;Pesquisa+%7C+Simulações+%7C+Alto+Desempenho" />
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00C8FF&center=true&vCenter=true&width=650&lines=Engenharia+de+Computação+%7C+UTFPR;Computação+Ciêntífica+%7C+IA+%7C+Data+Science;Pesquisa+%7C+Simulações+%7C+Alto+Desempenho" />
+</div>
 </div>
 
 ---
@@ -75,6 +77,19 @@ Conquistas acadêmicas:
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&layout=compact&langs_count=10&hide_border=true&theme=react" />
 
 </div>
+
+---
+
+### 🕰️ Linha do Tempo
+
+| Ano | Marco |
+|-----|-------|
+| **2012–2014** | Participação no livro **Pequenos Grandes Escritores** |
+| **2019** | Campeão Paranaense de **Karatê** |
+| **2022** | Conquista da **faixa preta** de karatê e medalhista da **OBMEP Nível 3** |
+| **2024** | Participação no projeto **Recalculando** e no projeto de extensão de **Matemática para Escolas Públicas** |
+| **2025** | Medalhista da **Competição Nacional Elon Lages Lima**, participação na **OBM Universitária**, trabalho em **duas ICs** e no projeto de extensão **Física para Escolas Públicas** |
+
 
 ---
 
