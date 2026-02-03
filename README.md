@@ -48,14 +48,21 @@ Busco desafios que exijam **raciocínio profundo, consistência e evolução con
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧩 Tecnologias & Ferramentas
 
-<div align="center">
+### 🎨 Frontend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" title="C#" />
+### ⚙️ Backend
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,cs,python&theme=dark" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,git,linux&theme=dark" />
-
+### 📊 Dados & Infraestrutura
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,linux,git&theme=dark" />
 </div>
 
 ---
@@ -64,25 +71,34 @@ Busco desafios que exijam **raciocínio profundo, consistência e evolução con
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&hide_border=true&theme=react&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamakawa&show_icons=true&hide_border=true&theme=react&rank_icon=github" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kamakawa&theme=react&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=kamakawa&hide_border=true&theme=react" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&layout=compact&langs_count=8&hide_border=true&theme=react" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakawa&layout=compact&langs_count=6&hide_border=true&theme=react" />
 
 </div>
 
 ---
 
-## 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo — Marcos Relevantes
 
-| Ano | Marco |
-|-----|------|
-| **2012–2014** | Participação no livro *Pequenos Grandes Escritores* |
-| **2019** | Campeão Paranaense de Karatê |
-| **2022** | Faixa preta de Karatê • Medalhista OBMEP |
-| **2024** | Projetos de ensino e extensão em Matemática |
-| **2025** | Medalhista Elon Lages Lima • OBM Universitária • ICs e Extensão em Física |
+| Ano | Destaque |
+|-----|----------|
+| **2012–2014** | Participação nas edições do livro *Pequenos Grandes Escritores*, incentivando escrita, criatividade e expressão desde a infância |
+| **2019** | Campeão Paranaense de **Karatê**, consolidando disciplina, foco e mentalidade competitiva |
+| **2021** | Medalhista na **Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP – Nível 3)** |
+| **2022** | Conquista da **faixa preta em Karatê aos 17 anos**, marco de excelência, constância e liderança |
+| **2024** | Atuação em **projetos de ensino e extensão** nas áreas de Matemática e Física, aproximando ciência e educação básica |
+| **2025** | Medalhista da **Competição Nacional Elon Lages Lima de Matemática (nível universitário)** e participação na **Olimpíada Brasileira de Matemática Universitária (OBMU)** |
+| **2025 – atual** | Participação em **duas Iniciações Científicas**, com desenvolvimento de **softwares científicos e de engenharia**, envolvendo modelagem, simulação e computação |
+| **2026** | Convidado a participar das **seletivas para competições internacionais de matemática**, reconhecimento do alto nível acadêmico |
 
 ---
 
