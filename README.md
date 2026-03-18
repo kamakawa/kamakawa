@@ -58,6 +58,7 @@ Busco desafios que exijam **raciocínio profundo, consistência e evolução con
 ### ⚙️ Backend
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,c,cpp,cs,python&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="48" />
 </div>
 
 ### 📊 Dados & Infraestrutura
